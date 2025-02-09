@@ -1,0 +1,7 @@
+It's a file by Arka, written with care and good-will.
+
+We all are like veriables. Throughout our lifetime we gather our value by adding or multiplying it. 
+
+Sometimes we are cpp variables, our values are determined just at the time of our birth and the programmer is obviously our parents. When they say, My daughter will be a Doctor or My son will be an IAS, our value gets determined. The main problem with the value determination is sometimes the values do not match with our variable type limits. Then it really becomes a problem.
+
+So keep adding your value and be valuable ☺
